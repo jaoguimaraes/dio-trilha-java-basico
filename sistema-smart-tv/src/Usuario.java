@@ -10,7 +10,7 @@ public class Usuario {
 
         System.out.println("Canal Atual: " + smartTv.canal);
 
-        smartTv.mudarCanal(13);
+        smartTv.mudarCanal(14);
 
         System.out.println("Canal Atual: " + smartTv.canal);
 

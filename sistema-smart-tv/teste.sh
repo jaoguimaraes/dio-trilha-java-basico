@@ -1,0 +1,1 @@
+java -XX:+ShowCodeDetailsInExceptionMessages -cp ./bin Usuario <- Nome do arquivo que contém a class Main
