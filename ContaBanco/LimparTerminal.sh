@@ -1,1 +1,0 @@
-java -XX:+ShowCodeDetailsInExceptionMessages -cp ./bin ContaTerminal <- Nome do arquivo que contém a class Main
